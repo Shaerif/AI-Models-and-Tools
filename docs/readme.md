@@ -1,5 +1,7 @@
 # 🚀 AI Models & Tools Compendium 2024: Open Source & Beyond
 
+> 📅 Last Updated: December 29, 2024
+>
 > 💡 A curated collection of AI models, prioritizing open-source solutions with commercial options included
 
 ## 📚 Table of Contents
@@ -251,6 +253,16 @@
 - 📓 **Google Colab** - Notebook environment ([https://colab.research.google.com/](https://colab.research.google.com/))
 - 🎨 **InvokeAI** - Stable Diffusion platform ([https://invoke.ai/](https://invoke.ai/))
 - 🔄 **Replicate** - API deployment ([https://replicate.com/](https://replicate.com/))
+
+## 👥 How to Contribute
+
+We welcome contributions! See our [contribution guidelines](CONTRIBUTING.md) for:
+- Adding new models
+- Updating existing information
+- Reporting outdated links
+- Suggesting improvements
+
+Your contributions help keep this resource accurate and up-to-date.
 
 ---
 > 📋 **Note**: All repository links are preserved for direct access
